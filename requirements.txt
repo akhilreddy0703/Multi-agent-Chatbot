@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+unstructured
+pinecone-client
+openai
+pydantic
+pymongo
+requests
+beautifulsoup4
